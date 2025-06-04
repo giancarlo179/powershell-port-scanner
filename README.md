@@ -9,5 +9,19 @@ A simple port scanner script written in PowerShell. It scans specified ports on 
 ## Usage
 
 ```powershell
+# Ejecución directa en consola PowerShell de la Version 1
 .\port-scanner.ps1
+
+
+# Ejecución directa en consola PowerShell de la Version 2
+powershell -ExecutionPolicy Bypass -File .\port-scanner.ps1 -ip "192.168.1.1" -ports "22,80,443,8080"
+
+powershell -ExecutionPolicy Bypass -File .\port-scanner.ps1 -ip "192.168.1.1" -ports "21,22,23"
+
+OR
+
+# Ejecucion directa desde el ejecutable .bat
+
+
+
 
