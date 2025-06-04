@@ -17,7 +17,7 @@ echo Ejecutando escaneo en %IP% con puertos %PORTS%...
 echo.
 
 :: Ejecutar el script en PowerShell sin restricciones
-powershell -ExecutionPolicy Bypass -File port-scanner.ps1 -ip "%IP%" -ports "%PORTS%"
+powershell -ExecutionPolicy Bypass -File port-scanner_v2.ps1 -ip "%IP%" -ports "%PORTS%"
 
 echo.
 pause
