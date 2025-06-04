@@ -22,7 +22,9 @@ OR
 
 # Ejecucion directa desde el ejecutable .bat
 
-![image](https://github.com/user-attachments/assets/0d2dfaf9-75c6-4ae4-80c9-c786ade8df8b)
+```
+![image](https://github.com/user-attachments/assets/0f7b33b7-0f13-45c7-af17-2591574ce446)
+
 
 
 
